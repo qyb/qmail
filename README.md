@@ -4,6 +4,7 @@
 
 ## 仓库变动记录
   2022.03.11 创建本文件
+  2022.03.11 增加两个 PDF 文件：the big qmail picture、the qmail handbook 的附录部分
   
 ## 想法
 计划提供一个开箱可用的"去中心化节点服务器"，其中关于 email 的部分，首先就想到 qmail
